@@ -33,3 +33,4 @@ my_user.describe_user()
 
 sveta_user = User('sveta', 'kachalo', 'almost 32', 'kharkiv')
 sveta_user.describe_user()
+sveta_user.greet_user()
