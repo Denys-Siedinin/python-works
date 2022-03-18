@@ -16,4 +16,6 @@ class Dog:
 
 
 my_dog = Dog('Berta', 6)
-print(my_dog.roll_over())
+my_dog.roll_over()
+your_dog = Dog('Ricardo', 5)
+your_dog.roll_over()
